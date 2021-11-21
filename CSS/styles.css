@@ -17,7 +17,10 @@ padding: 100px 0 70px 0;
   background-color: #FFDFAF;
   padding: 30px 0;
 }
-
+.comp-girl {
+  width: 350px;
+  height: 350px;
+}
 body {
   margin: 0;
   font-family: 'Rubik', sans-serif;
@@ -47,12 +50,16 @@ h3 {
 
 .top-cloud {
   position: absolute;
+  width: 150px;
+  height: 150px;
   right: 300px;
   top: 40px;
 }
 
 .bottom-cloud {
   position: absolute;
+  width: 150px;
+  height: 150px;
   left: 250px;
   bottom: 300px;
 }
